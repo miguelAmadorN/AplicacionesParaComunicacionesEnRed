@@ -17,3 +17,5 @@ Amador Nava Miguel Ángel
 **Intefaz del juego**
 
 ![Juego](Cliente.png)
+
+![Juego](Cliente_Perdedor.png)
