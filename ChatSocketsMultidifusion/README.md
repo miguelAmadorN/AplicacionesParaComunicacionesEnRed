@@ -1,5 +1,4 @@
 # Chat con Sockets Multidifusión
-Examen de primer parcial.
 
 Realizado en Ubuntu con NetBeans 8.2 
 
