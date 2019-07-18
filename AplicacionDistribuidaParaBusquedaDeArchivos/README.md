@@ -13,7 +13,7 @@ Amador Nava Miguel Ángel
 ![Conexion](Inicio.png)
 
 
-**Intefaz solicitar un archivo**
+**Interfaz para solicitar archivos**
 
 ![Aplicacion](Ejecucion.png)
 
